@@ -35,6 +35,13 @@ Oasis Dataset (Longitudinal) and MRI Scans Dataset (Kaggle)
 - Machine Learning Models - SVM,Random Forest,Logistic Regression
 - Deep Learning Models- CNN(Transfer Learning - Inception Model), Customized CNN Architecture
 
+## Scripts Used
+
+- Alzheimer_Analysis_CNN : CNN Models used here are Inception Model using Transfer Learning and customized CNN architecture
+- Alzheimer_Analysis_ML_Models : Using SVM,Random Forest and Logistic Regression
+- Final_Report : Here we have report of the project
+
+
 ## Results And Discussions
 - Random Forest emerges as the top-performing model among the chosen ML approaches. Its ensemble nature, amalgamating diverse decision trees, contributes to heightened accuracy by synergistically addressing complexities within the Alzheimer's dataset. We got accuracy of 84%.
 - SVM, securing the second position in performance, demonstrates its effectiveness in handling more complex datasets. Its operational principle, relying on a hyper plane as a class boundary, allows SVM to navigate intricate patterns within the data. We got accuracy of 77%.
